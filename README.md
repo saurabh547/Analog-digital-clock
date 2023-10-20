@@ -1,2 +1,2 @@
-[Link of My Project](analog-digital-watch.netlify.app)
+[click to view project](https://analog-digital-watch.netlify.app/)
 
